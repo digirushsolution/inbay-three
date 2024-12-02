@@ -1,0 +1,1077 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Gocast",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Career",
+            "screenshot": "screenshots\/career.jpg",
+            "source": "templates\/career.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/gocast\/template-kit\/career\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/gocast\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/gocast\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Clients",
+            "screenshot": "screenshots\/clients.jpg",
+            "source": "templates\/clients.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/gocast\/template-kit\/clients\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/gocast\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/gocast\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/gocast\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/gocast\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/gocast\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.jpg",
+            "source": "templates\/error-404.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/gocast\/?elementor_library=error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/gocast\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/gocast\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.0.11",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.5",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "shape-11.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/shape-11.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1036,
+            "dimensions": [
+                144,
+                128
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/shape-11.png"
+        },
+        {
+            "filename": "two-cheerful-radio-hosts-smiling-at-camera-while-s-T6R5BQS.jpeg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/two-cheerful-radio-hosts-smiling-at-camera-while-s-T6R5BQS-800x535.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 83442,
+            "dimensions": [
+                850,
+                568
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-cheerful-radio-hosts-smiling-at-camera-while-s-T6R5BQS"
+        },
+        {
+            "filename": "shape-small.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/shape-small.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3706,
+            "dimensions": [
+                124,
+                133
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/shape-small.png"
+        },
+        {
+            "filename": "audiobook.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/audiobook.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 1119,
+            "dimensions": [
+                63,
+                63
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/podcast-icons-line-and-solid-PJAHESG"
+        },
+        {
+            "filename": "duration.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/duration.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1844,
+            "dimensions": [
+                54,
+                63
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/podcast-icons-line-and-solid-PJAHESG"
+        },
+        {
+            "filename": "on-air.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/on-air.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 1970,
+            "dimensions": [
+                63,
+                63
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/podcast-icons-line-and-solid-PJAHESG"
+        },
+        {
+            "filename": "review.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/review.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2013,
+            "dimensions": [
+                51,
+                63
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/podcast-icons-line-and-solid-PJAHESG"
+        },
+        {
+            "filename": "stream.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/stream.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2737,
+            "dimensions": [
+                63,
+                63
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/podcast-icons-line-and-solid-PJAHESG"
+        },
+        {
+            "filename": "broadcast.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/broadcast.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2004,
+            "dimensions": [
+                63,
+                63
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/podcast-icons-line-and-solid-PJAHESG"
+        },
+        {
+            "filename": "logo1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/logo1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2430,
+            "dimensions": [
+                180,
+                180
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/100-minimal-logos-9364LH"
+        },
+        {
+            "filename": "logo6.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/logo6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2849,
+            "dimensions": [
+                180,
+                180
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/100-minimal-logos-9364LH"
+        },
+        {
+            "filename": "logo7.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/logo7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3726,
+            "dimensions": [
+                180,
+                180
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/100-minimal-logos-9364LH"
+        },
+        {
+            "filename": "logo4.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/logo4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2738,
+            "dimensions": [
+                180,
+                180
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/100-minimal-logos-9364LH"
+        },
+        {
+            "filename": "logo2.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/logo2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3681,
+            "dimensions": [
+                180,
+                180
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/100-minimal-logos-9364LH"
+        },
+        {
+            "filename": "logo5.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/logo5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2886,
+            "dimensions": [
+                180,
+                180
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/100-minimal-logos-9364LH"
+        },
+        {
+            "filename": "logo8.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/logo8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/clients.json",
+                    "name": "Clients"
+                }
+            ],
+            "filesize": 4830,
+            "dimensions": [
+                180,
+                180
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/100-minimal-logos-9364LH"
+        },
+        {
+            "filename": "quote-1.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/quote-1.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4343,
+            "dimensions": [
+                131,
+                95
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/quote-1.png"
+        },
+        {
+            "filename": "team4.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/team4.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 79641,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-listening-to-music-with-headphones-KDCQWT9"
+        },
+        {
+            "filename": "team1.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/team1.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 90902,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-in-headphones-VMYZKUS"
+        },
+        {
+            "filename": "team3.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/team3.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 71844,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/attractive-woman-in-headphones-listen-to-music-8JNBJBK"
+        },
+        {
+            "filename": "team2.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/team2.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 108969,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/positive-dark-skinned-man-with-toothy-smiles-liste-F55HQV4"
+        },
+        {
+            "filename": "shape-123213.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/shape-123213.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4777,
+            "dimensions": [
+                556,
+                621
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/shape-123213.png"
+        },
+        {
+            "filename": "quote.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/quote.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 3436,
+            "dimensions": [
+                131,
+                95
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/quote.png"
+        },
+        {
+            "filename": "host.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/host.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2358,
+            "dimensions": [
+                63,
+                63
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/podcast-icons-line-and-solid-PJAHESG"
+        },
+        {
+            "filename": "favorite.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/favorite.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1850,
+            "dimensions": [
+                54,
+                63
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/podcast-icons-line-and-solid-PJAHESG"
+        },
+        {
+            "filename": "follower.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/follower.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1969,
+            "dimensions": [
+                54,
+                63
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/podcast-icons-line-and-solid-PJAHESG"
+        },
+        {
+            "filename": "audiowave.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/audiowave.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 834,
+            "dimensions": [
+                63,
+                63
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/podcast-icons-line-and-solid-PJAHESG"
+        },
+        {
+            "filename": "handsome-radio-host-smiling-while-speaking-in-micr-NXXSMC4.jpeg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/handsome-radio-host-smiling-while-speaking-in-micr-NXXSMC4.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 51435,
+            "dimensions": [
+                549,
+                643
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-radio-host-smiling-while-speaking-in-micr-NXXSMC4"
+        },
+        {
+            "filename": "logo3.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/logo3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2484,
+            "dimensions": [
+                180,
+                180
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/100-minimal-logos-9364LH"
+        },
+        {
+            "filename": "two-radio-hosts-talking-and-smiling-while-sitting-BLQ7758.jpeg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/two-radio-hosts-talking-and-smiling-while-sitting-BLQ7758.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 84942,
+            "dimensions": [
+                800,
+                534
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-radio-hosts-talking-and-smiling-while-sitting--BLQ7758"
+        },
+        {
+            "filename": "broadcaster.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/broadcaster.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1731,
+            "dimensions": [
+                60,
+                63
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/podcast-icons-line-and-solid-PJAHESG"
+        },
+        {
+            "filename": "modern-millennial-woman-in-a-stylish-hat-in-the-st-86JJV8Y.jpeg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/modern-millennial-woman-in-a-stylish-hat-in-the-st-86JJV8Y.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 57352,
+            "dimensions": [
+                776,
+                908
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-millennial-woman-in-a-stylish-hat-in-the-st-86JJV8Y"
+        },
+        {
+            "filename": "thoughtful-radio-host-in-headphones-recording-podc-F97EPZ3.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/thoughtful-radio-host-in-headphones-recording-podc-F97EPZ3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 87550,
+            "dimensions": [
+                510,
+                489
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-F97EPZ3"
+        },
+        {
+            "filename": "image-121.jpeg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/image-121-800x991.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 108608,
+            "dimensions": [
+                840,
+                1041
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-radio-host-waving-hand-while-having-video-LXMMFXW"
+        },
+        {
+            "filename": "shape-12.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/shape-12.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1052,
+            "dimensions": [
+                144,
+                128
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/shape-12.png"
+        },
+        {
+            "filename": "logo-gocast.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/logo-gocast.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 4865,
+            "dimensions": [
+                195,
+                40
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/gocast\/wp-content\/uploads\/sites\/26\/2021\/07\/logo-gocast.png"
+        }
+    ]
+}

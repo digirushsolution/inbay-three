@@ -1,0 +1,167 @@
+{
+    "version": "0.4",
+    "title": "Error 404",
+    "type": "error-404",
+    "metadata": {
+        "template_type": "single-404",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "error-404",
+        "elementor_pro_conditions": [
+            "include\/singular\/not_found404"
+        ],
+        "additional_template_information": [
+            "This is a \"Error 404\" template for Elementor Pro.",
+            "This template will display on: 404 Page."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "629a0baa",
+            "settings": {
+                "height": "min-height",
+                "custom_height_tablet": {
+                    "unit": "px",
+                    "size": 500,
+                    "sizes": []
+                },
+                "custom_height_mobile": {
+                    "unit": "px",
+                    "size": 500,
+                    "sizes": []
+                },
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=primary"
+                },
+                "custom_height": {
+                    "unit": "px",
+                    "size": 600,
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "4454658b",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "3f033f8e",
+                            "settings": {
+                                "title": "Page Not Found!",
+                                "header_size": "h1",
+                                "align": "center",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=b9d436f"
+                                },
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "26b27a43",
+                            "settings": {
+                                "style": "zigzag",
+                                "width": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "text": "Divider",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 3,
+                                    "sizes": []
+                                },
+                                "pattern_height": {
+                                    "unit": "px",
+                                    "size": 10.7,
+                                    "sizes": []
+                                },
+                                "pattern_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "color": "globals\/colors?id=accent"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2ec6ea39",
+                            "settings": {
+                                "align": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "280",
+                                    "bottom": "0",
+                                    "left": "280",
+                                    "isLinked": false
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "150",
+                                    "bottom": "0",
+                                    "left": "150",
+                                    "isLinked": false
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "editor": "The page you are looking for does not exist. Go back to the home page or stay, it is quiet out here.",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "d640f41",
+                            "settings": {
+                                "text": "Back To Home",
+                                "align": "center",
+                                "size": "md"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
